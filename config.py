@@ -5,7 +5,7 @@ CONFIG = {
     "FULL_APP_SCREEN_REGION_OFFSETS": {"left": 0, "top": 0, "width": -1, "height": -1},
     "INVENTORY_SCREEN_REGION_OFFSETS": {"left": 551, "top": 238, "width": 186, "height": 253},
 
-    "MONSTER_COLORS_HEX": ["22001f"],
+    "MONSTER_COLORS_HEX": ["001718"],
     #"MONSTER_COLORS_HEX": ["7e4d4a","9d9973"], bork
 
     "TARGET_BOX_REGION_OFFSETS": {"left": 9, "top": 52, "width": 145, "height": 95},
